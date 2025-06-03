@@ -8,4 +8,4 @@ rmdir /s /q generated\C1
 rmdir /s /q generated\C2
 del complete_course_data.json
 
-echo Generated content directories removed. Ready for regeneration!
+echo Generated content directories removed.
