@@ -106,8 +106,6 @@ Tailor each section to the appropriate CEFR level.
 | Word Export Style | Update `exportToWord()` method            | `CourseGenerator.java`       |
 
 
-## License
-MIT License. See the `LICENSE` file for full terms.
 
 
 ## Acknowledgements
